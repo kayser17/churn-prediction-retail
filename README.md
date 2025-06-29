@@ -43,3 +43,6 @@ Build a machine learning model capable of predicting customer churn, evaluate it
 - Pandas, Matplotlib
 
 ---
+## 📌 Disclaimer
+
+This project is a personal adaptation of a churn prediction challenge. All insights and code are original. No confidential data, client documentation, or proprietary material from the challenge are included.
